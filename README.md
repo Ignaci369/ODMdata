@@ -1,4 +1,4 @@
-ODMData
+Ignacio Zuñiga aguilarODMData
 ========
 
 These are example datasets for OpenDroneMap ([ODM](https://github.com/OpenDroneMap/ODM) and related projects), from a variety of sources. You can browse some of the dataset on [DroneDB Hub](https://hub.dronedb.app/r/odm).
